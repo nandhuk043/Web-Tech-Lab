@@ -1,0 +1,72 @@
+body {
+font-family: 'Arial', sans-serif;
+line-height: 1.6;
+margin: 20px;
+color: #333;
+}
+header {
+text-align: center;
+margin-bottom: 30px;
+}
+header h1 {
+font-size: 36px;
+color: #0088cc;
+border-bottom: 2px solid #0088cc;
+padding-bottom: 10px;
+margin-bottom: 10px;
+}
+header h2 {
+font-size: 20px;
+color: #555;
+}
+header p {
+font-size: 18px;
+color: #777;
+}
+section {
+margin-bottom: 30px;
+}
+section h3 {
+font-size: 24px;
+color: #0088cc;
+border-bottom: 1px solid #0088cc;
+padding-bottom: 5px;
+margin-bottom: 15px;
+}
+ul {
+margin-left: 20px;
+list-style-type: disc;
+}
+section p {
+font-size: 16px;
+color: #444;
+margin-bottom: 10px;
+}
+footer {
+margin-top: 50px;
+text-align: center;
+}
+footer p {
+font-size: 14px;
+color: #666;
+}
+/* Additional styles for better presentation */
+body {
+background-color: #f4f4f4;
+max-width: 800px;
+margin: 0 auto;
+padding: 20px;
+box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+header h1 {
+font-weight: bold;
+}
+header h2 {
+font-style: italic;
+}
+ul {
+margin-left: 30px;
+}
+section p:last-child {
+margin-bottom: 0;
+}
